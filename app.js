@@ -3,7 +3,7 @@ const navTriggerEl = document.querySelector(".hamburger");
 const navEl = document.querySelector("nav");
 const  conentEl = document.querySelector(".content");
 const hamburgerBarsEl=document.getElementsByTagName("span");
-console.log(hamburgerBarsEl) //just to be sure they are there
+console.log(hamburgerBarsEl) //just to be sure they are there.
 
 
 function toggelnav(){
